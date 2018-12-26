@@ -1,4 +1,4 @@
-package ui;
+package ui.painter;
 
 import javax.swing.*;
 
